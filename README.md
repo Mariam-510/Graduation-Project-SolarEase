@@ -1,8 +1,10 @@
 I contributed significantly to my graduation project by implementing the backend using ASP.NET Web API and SQL Server database. I developed prediction models employing Support Vector Regression (SVR) and created a rule-based chatbot that utilizes NLTK techniques such as tokenization, stemming, and Jaccard similarity. I integrated Google Maps API to sort locations and our models leveraged the OpenWeatherMap API to retrieve real-time features. Additionally, I deployed the backend on Monster ASP hosting, while the prediction models and chatbot were deployed using FastAPI on HuggingFace hosting.
+
 -------------------------------------------------------------------------------------------------------------
 Adopting solar cells is crucial for addressing climate change and transitioning to clean energy. Solar cells can power residential and commercial buildings, reducing carbon emissions and promoting a cleaner environment. The rising costs of traditional electricity sources lead to higher electricity bills, while solar power provides an independent energy source, reducing or eliminating these bills. Government incentives and the ability to sell excess energy back to the grid further enhance the financial benefits. Investing in solar energy offers long-term savings and environmental advantages. 
- 
+
 Our app provides a comprehensive solution that considers all scenarios of solar installation for accurate results, including a robust calculator for customized recommendations, an assistant chatbot for user guidance, a directory of certified installers, and an online marketplace for seamless buying and selling of solar products. Additionally, users who already have solar systems can track their solar system's productivity.
+
 -------------------------------------------------------------------------------------------------------------
 Functional Requirements
 1) Calculations:

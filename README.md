@@ -1,3 +1,4 @@
+# SolarEase (Oct 2023 - Jul 2024)
 I contributed significantly to my graduation project by implementing the backend using ASP.NET Web API and SQL Server database. I developed prediction models employing Support Vector Regression (SVR) and created a rule-based chatbot that utilizes NLTK techniques such as tokenization, stemming, and Jaccard similarity. I integrated Google Maps API to sort locations and our models leveraged the OpenWeatherMap API to retrieve real-time features. Additionally, I deployed the backend on Monster ASP hosting, while the prediction models and chatbot were deployed using FastAPI on HuggingFace hosting.
 
 -------------------------------------------------------------------------------------------------------------

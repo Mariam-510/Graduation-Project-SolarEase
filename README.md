@@ -37,7 +37,5 @@ Functional Requirements
 6) Posts Filtration: Admin can review and filter posts before publishing in the marketplace and reject the posts that violate the standards.
 
 -------------------------------------------------------------------------------------------------------------
-Demo
-https://github.com/user-attachments/assets/2528d315-3825-4546-b282-5078f7d4743d
 
 

@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/2528d315-3825-4546-b282-5078f7d4743d
 # SolarEase (Oct 2023 - Jul 2024)
 - I played an active role in contributing to my graduation project by participating in various aspects of its development.
 - I worked on implementing the backend using ASP.NET Web API and SQL Server database.
@@ -32,6 +34,7 @@ Functional Requirements
 - Solar Market Prices Section: Provides the user with a price list of solar products including panels, inverters, and batteries from various brands and capacities. Users can add any products to their favorite products page for easy reference and comparison.
 - Online Trade Marketplace Section: Users can post solar products for sale, whether new or used. These products must be displayed to other users interested in purchasing them. The marketplace should allow sellers to provide their contact information, such as a phone number, within their product posts to allow potential buyers to communicate with them. Users should be able to search, view, and add any post to their favorite posts page for easy reference and comparison.
 
-4) Chatbot: The user can chat and interact with a rule-based chatbot. It has two interactive sections: text input queries and predefined category selection. By offering these two distinct sections, our solar energy chatbot ensures that users can efficiently access relevant information tailored to their preferences.
+5) Chatbot: The user can chat and interact with a rule-based chatbot. It has two interactive sections: text input queries and predefined category selection. By offering these two distinct sections, our solar energy chatbot ensures that users can efficiently access relevant information tailored to their preferences.
 
-5) Posts Filtration: Admin can review and filter posts before publishing in the marketplace and reject the posts that violate the standards.
+6) Posts Filtration: Admin can review and filter posts before publishing in the marketplace and reject the posts that violate the standards.
+

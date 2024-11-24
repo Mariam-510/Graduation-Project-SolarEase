@@ -1,4 +1,9 @@
 # SolarEase (Oct 2023 - Jul 2024)
+
+
+Uploading Soloop_4.mp4…
+
+
 I contributed significantly to my graduation project by implementing the backend using ASP.NET Web API and SQL Server database. I developed prediction models employing Support Vector Regression (SVR) and created a rule-based chatbot that utilizes NLTK techniques such as tokenization, stemming, and Jaccard similarity. I integrated Google Maps API to sort locations and our models leveraged the OpenWeatherMap API to retrieve real-time features. Additionally, I deployed the backend on Monster ASP hosting, while the prediction models and chatbot were deployed using FastAPI on HuggingFace hosting.
 
 -------------------------------------------------------------------------------------------------------------
@@ -18,10 +23,11 @@ Functional Requirements
 2) Prediction:
 - Predict solar energy: provide the user with values every 3 hours and daily, spanning a five-day predictions of panel output. This prediction should be based on the user's solar system size and user’s location, as well as forecasted solar irradiance data.
 
-3) Installation Guide:
-- Find Solar Installers: Provides the user with a list of certified solar installation companies, ordered by the nearest to the user's location.
-- Solar Market Prices: Provides the user with a price list of solar products including panels, inverters, and batteries from various brands and capacities. Users can add any products to their favorite products page for easy reference and comparison.
-- Online Trade Marketplace: Users can post solar products for sale, whether new or used. These products must be displayed to other users interested in purchasing them. The marketplace should allow sellers to provide their contact information, such as a phone number, within their product posts to allow potential buyers to communicate with them. Users should be able to search, view, and add any post to their favorite posts page for easy reference and comparison.
+3) Find Solar Installers: Provides the user with a list of certified solar installation companies, ordered by the nearest to the user's location.
+
+4) Online Marketplace:
+- Solar Market Prices Section: Provides the user with a price list of solar products including panels, inverters, and batteries from various brands and capacities. Users can add any products to their favorite products page for easy reference and comparison.
+- Online Trade Marketplace Section: Users can post solar products for sale, whether new or used. These products must be displayed to other users interested in purchasing them. The marketplace should allow sellers to provide their contact information, such as a phone number, within their product posts to allow potential buyers to communicate with them. Users should be able to search, view, and add any post to their favorite posts page for easy reference and comparison.
 
 4) Chatbot:
 - Chatbot: The user can chat and interact with a rule-based chatbot that provides information on general solar-related topics, offers advice, and assists in facilitating the installation process.

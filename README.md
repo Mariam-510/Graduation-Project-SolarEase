@@ -7,7 +7,7 @@
 - I also participated in building a rule-based chatbot using NLTK techniques such as tokenization, stemming, and Jaccard similarity. 
 - Additionally, I took part in deploying the backend on Monster ASP hosting, while the prediction models and chatbot were deployed using FastAPI on HuggingFace hosting.
 - I was actively involved in gathering the data required for all components of the project, ensuring its accuracy and relevance.
-This collaborative effort enhanced my expertise in backend development and strengthened my problem-solving and technical skills across various domains.
+- This collaborative effort enhanced my expertise in backend development and strengthened my problem-solving and technical skills across various domains.
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -34,5 +34,4 @@ Functional Requirements
 
 4) Chatbot: The user can chat and interact with a rule-based chatbot. It has two interactive sections: text input queries and predefined category selection. By offering these two distinct sections, our solar energy chatbot ensures that users can efficiently access relevant information tailored to their preferences.
 
-5) Posts Filtration: 
-- Filter Post: Admin can review and filter posts before publishing in the marketplace and reject the posts that violate the standards.
+5) Posts Filtration: Admin can review and filter posts before publishing in the marketplace and reject the posts that violate the standards.

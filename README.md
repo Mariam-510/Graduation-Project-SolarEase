@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/2528d315-3825-4546-b282-5078f7d4743d
 # SolarEase (Oct 2023 - Jul 2024)
 - I played an active role in contributing to my graduation project by participating in various aspects of its development.
 - I worked on implementing the backend using ASP.NET Web API and SQL Server database.
@@ -37,4 +35,9 @@ Functional Requirements
 5) Chatbot: The user can chat and interact with a rule-based chatbot. It has two interactive sections: text input queries and predefined category selection. By offering these two distinct sections, our solar energy chatbot ensures that users can efficiently access relevant information tailored to their preferences.
 
 6) Posts Filtration: Admin can review and filter posts before publishing in the marketplace and reject the posts that violate the standards.
+
+-------------------------------------------------------------------------------------------------------------
+Demo
+https://github.com/user-attachments/assets/2528d315-3825-4546-b282-5078f7d4743d
+
 
